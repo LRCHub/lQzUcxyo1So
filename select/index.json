@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Seasons",
+  "base_artist": "VOLTACTION",
+  "createdAt": "2025-12-11T18:25:07.169404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Season's Ending",
+      "artist": "Kelsey Waldon",
+      "has_synced": false,
+      "path": "select/01_Season's_Ending_Kelsey_Waldon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seasons",
+      "artist": "CunninLynguists feat. Masta Ace",
+      "has_synced": true,
+      "path": "select/02_Seasons_CunninLynguists_feat._Masta_Ace.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cunninlynguists Ft. Masta Ace - Seasons",
+      "artist": "RJD2",
+      "has_synced": true,
+      "path": "select/03_Cunninlynguists_Ft._Masta_Ace_-_Seasons_RJD2.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cunninylynguists \u0000 Seasons",
+      "artist": "Rjd2",
+      "has_synced": true,
+      "path": "select/04_Cunninylynguists_\u0000_Seasons_Rjd2.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seasons of Your Day",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/05_Seasons_of_Your_Day_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seasons",
+      "artist": "Neil Halstead",
+      "has_synced": true,
+      "path": "select/06_Seasons_Neil_Halstead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Seasons",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/07_The_Seasons_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seasons",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/08_Seasons_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Seasons",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/09_The_Seasons_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seasons of Wither",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/10_Seasons_of_Wither_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seasons of Wither",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/11_Seasons_of_Wither_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love You for All Seasons",
+      "artist": "The Fuzz",
+      "has_synced": true,
+      "path": "select/12_I_Love_You_for_All_Seasons_The_Fuzz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Man For All Seasons",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/13_Man_For_All_Seasons_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Seasons",
+      "artist": "Terence Trent D’Arby",
+      "has_synced": true,
+      "path": "select/14_Seasons_Terence_Trent_D’Arby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seasons",
+      "artist": "Terence Trent D'Arby",
+      "has_synced": true,
+      "path": "select/15_Seasons_Terence_Trent_D'Arby.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Seasons Change",
+      "artist": "Expose",
+      "has_synced": false,
+      "path": "select/16_Seasons_Change_Expose.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Seasons Change - 7\" Version",
+      "artist": "Expose",
+      "has_synced": true,
+      "path": "select/17_Seasons_Change_-_7__Version_Expose.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Changing of the Seasons",
+      "artist": "Ane Brun",
+      "has_synced": true,
+      "path": "select/18_Changing_of_the_Seasons_Ane_Brun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seasons",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/pl_01_Seasons_VOLTACTION.txt"
+    }
+  ]
+}
